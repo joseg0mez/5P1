@@ -25,3 +25,4 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
 # 5P1
 # 5P1
 # 5P1
+# 5P2
