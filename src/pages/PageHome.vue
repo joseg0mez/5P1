@@ -14,7 +14,7 @@
         >
         <template v-slot:before>
           <q-avatar size="xl">
-          <img src="https:/cdn.quasar.dev/img/avatar5.jpg">
+          <img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80">
         </q-avatar>  
         </template>
 
@@ -49,12 +49,12 @@
 
            <q-item-section avatar top>
             <q-avatar>
-              <img src="https:/cdn.quasar.dev/img/avatar5.jpg">
+              <img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80">
             </q-avatar>  
           </q-item-section>  
           
           <q-item-section>
-            <q-item-label><strong> George Royce </strong>  </q-item-label>
+            <q-item-label><strong> Jose Gomez </strong>  </q-item-label>
              <q-item-label class="qweet-content"> {{ qweet.content}}
             </q-item-label>
               <div class="row justify-between q-mt-sm">
